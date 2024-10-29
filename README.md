@@ -8,7 +8,7 @@ My favorite language is Swift, but then again my favorite toolchain is cargo. Ca
 
 I find it important to emphasize that `[neo]vi[m]` is not a text editor; `[neo]vi[m]` has a text editor in which is called `INSERT MODE`, and people loading nerd tree makes me cringe; FYI: there is telescope.
 
-I have an ASCIINEMA profile the link is on the left.
+I have an ASCIINEMA profile the link is on the left; this is like gist meets youtube the TUI edition.
 
 - 🔭 I spent quite some time moving data in and out of FileMaker, postgreSQL, CoreData, elasticsearch, and other dataformats through CSV, TSV, binary formats, XML, JSON, YAML, other portable arrays, you name it.
 - 🔭 I’m currently working on 3 new startups; the technical parts
