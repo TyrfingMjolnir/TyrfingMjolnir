@@ -26,6 +26,6 @@ Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm
 
 In general I love stuff that fits in a table
 
-| Headline | more | of  | it  |
+| Column | header | more | of  | it  |
 | ---      | ---  | --- | --- |
-| Headline | more | of  | it  |
+| Column | more | of  | it  |
