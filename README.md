@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--
-**TyrfingMjolnir/TyrfingMjolnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Note username == repositoryname I saw @orhun do this, I'm trying this too.
+**TyrfingMjolnir/TyrfingMjolnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
