@@ -4,7 +4,9 @@ I live in the terminal; iTerm, alactritty, kitty usually, tmux and vim has been 
 
 I have no idea when I signed up for !gh, this profile appears to be a 2013 creation. Definitely no my first. I feel at home reading XSLT / c / cpp / objc / swift / php / bash / rust
 
-My favorite language is Swift, but then again my favorite toolchain is cargo.
+My favorite language is Swift, but then again my favorite toolchain is cargo. Calling cargo a package manager does not do cargo justice.
+
+I find it important to emphasize that `[neo]vi[m]` is not a text editor; `[neo]vi[m]` has a text editor in which is called `INSERT MODE`, and people loading nerd tree makes me cringe; FYI: there is telescope.
 
 I have an ASCIINEMA profile the link is on the left.
 
