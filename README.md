@@ -11,7 +11,7 @@ I live in the terminal; iTerm, alactritty, kitty usually, tmux and vim has been 
 - 😄 Pronouns: Not my kind of juice, the junk in your trunk speaks for itself.
 - ⚡ Fun fact: My first hack changed the colors of the cars in Burnin Rubber on the C64
 
-Note username == repositoryname I saw @orhun do this, I'm trying this too.
+Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm trying this too.
 
 **TyrfingMjolnir/TyrfingMjolnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
