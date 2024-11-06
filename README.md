@@ -28,4 +28,4 @@ In general I love stuff that fits in a table
 
 | Column | header | more | of  | it  |
 | ---    | ---    | ---  | --- | --- |
-| Column | more   | of   | it  |     |
+| Column | more   | of   |     | it  |
