@@ -13,6 +13,7 @@ I have an ASCIINEMA profile the link is on the left; this is like gist meets you
 - 🔭 I spent quite some time moving data in and out of FileMaker, postgreSQL, CoreData, elasticsearch, and other dataformats through CSV, TSV, binary formats, XML, JSON, YAML, other portable arrays, you name it.
 - 🔭 I’m currently working on 3 new startups; the technical parts
 - 🌱 I’m currently learning RataTUI for the CLI, Vapor for REST, Swift for Apple stuff
+- 🌱 I spent the first quarter of 2025 diving into Kubernetes, I can't say I like thi more than Joyent SmartOS, yet it's a good thing to have in my toolbelt.
 - 👯 I’m looking to collaborate on anything that brings the world forward
 - 🤔 I’m looking for help with stuff that will make you grow
 - 💬 Ask me about parsing, pattern matching, and / or changing stuff
