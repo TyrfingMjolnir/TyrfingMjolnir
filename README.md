@@ -30,3 +30,7 @@ In general I love stuff that fits in a table
 | Column | header | more | of  | it  |
 | ---    | ---    | ---  | --- | --- |
 | Column | more   | of   |     | it  |
+
+I know it's off the Richter's scale to put this here, yet I do. Lenovo P50 involuntary stuck in mute. Mine is on debian 12; this is how I fixed this: `apt install --reinstall pulseaudio` then Fn + F1 to get out of involunetary mute.
+
+
