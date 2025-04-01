@@ -31,6 +31,10 @@ In general I love stuff that fits in a table
 | ---    | ---    | ---  | --- | --- |
 | Column | more   | of   |     | it  |
 
-I know it's off the Richter's scale to put this here, yet I do. Lenovo P50 involuntary stuck in mute. Mine is on debian 12; this is how I fixed this: `apt install --reinstall pulseaudio` then Fn + F1 to get out of involunetary mute.
+I know it's off the Richter's scale to put this here, yet I do. Lenovo P50 involuntary stuck in mute. Mine is on debian 12; this is how I fixed this:
+```
+apt install --reinstall pulseaudio
+```
+this enabled `Fn + F1` to get out of involunetary mute. Now do yourself a favor and do not push the mute button on top of the numeric keypad ever again.
 
 
