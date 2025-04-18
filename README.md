@@ -22,21 +22,22 @@ I have an ASCIINEMA profile the link is on the left; this is like gist meets you
 - ⚡ Fun fact: My first hack changed the colors of the cars in Burnin Rubber on the C64
 
 My user experience OS profile
-| Year | OS                                                                                      |
-| ---  | ---                                                                                     |
-| 1982 | VIC-20                                                                                  |
-| 1984 | Commodore 64                                                                            |
-| 1985 | Amiga 500, initial introduction to Solaris and vi, yet not a daily driver at this point |
-| 1992 | Amiga 3000                                                                              |
-| 1993 | MacOS 7.x                                                                               |
-| 1996 | Linux RedHat Colgate                                                                    |
-| 1998 | Linux debian GNU/Linux                                                                  |
-| 1999 | MacOS X                                                                                 |
-| 2010 | VMWare ESXi                                                                             |
-| 2011 | Joyent SmartOS KVM, later on adapted BHYVE                                              |
-| 2012 | Arch GNU/Linux                                                                              |
-| 2013 | Proxmox                                                                                     |
-| 2024 | Kubernetes                                                                                  |
+| Year | OS                                                                                      | System                      |
+| ---  | ---                                                                                     | ---                         |
+| 1982 | VIC-20                                                                                  | VIC-20                      |
+| 1984 | Commodore 64                                                                            | Commodore 64                |
+| 1985 | Amiga 500, initial introduction to Solaris and vi, yet not a daily driver at this point | Amiga 500                   |
+| 1992 | Amiga 3000 / Solaris                                                                    | Amiga 3000 / Sun clone Axil |
+| 1993 | MacOS 7.x                                                                               | Powerbook 140               |
+| 1996 | Linux RedHat Colgate                                                                    |                             |
+| 1998 | Linux debian GNU/Linux                                                                  |                             |
+| 1999 | MacOS X                                                                                 |                             |
+| 1999 | Solaris                                                                                 | Sun Enterprise 450          |
+| 2010 | VMWare ESXi                                                                             |                             |
+| 2011 | Joyent SmartOS KVM, later on adapted BHYVE                                              | SuperMicro X10              |
+| 2012 | Arch GNU/Linux                                                                          | Lenovo x220 through x270    |
+| 2013 | Proxmox                                                                                 |                             |
+| 2024 | Kubernetes                                                                              | Dell r740xd                 |
 
 Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm trying this too.
 
