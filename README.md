@@ -32,9 +32,11 @@ My user experience OS profile
 | 1996 | Linux RedHat Colgate                                                                    |
 | 1998 | Linux debian GNU/Linux                                                                  |
 | 1999 | MacOS X                                                                                 |
-| 2011 | Joyent SmartOS                                                                                 |
-| 2012 | Arch GNU/Linux                                                                                 |
-| 2024 | Kubernetes                                                                                     |
+| 2010 | VMWare ESXi                                                                             |
+| 2011 | Joyent SmartOS KVM, later on adapted BHYVE                                              |
+| 2012 | Arch GNU/Linux                                                                              |
+| 2013 | Proxmox                                                                                     |
+| 2024 | Kubernetes                                                                                  |
 
 Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm trying this too.
 
