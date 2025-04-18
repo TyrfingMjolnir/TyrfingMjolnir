@@ -24,13 +24,17 @@ I have an ASCIINEMA profile the link is on the left; this is like gist meets you
 My user experience OS profile
 | Year | OS                                                                                      |
 | ---  | ---                                                                                     |
+| 1982 | VIC-20                                                                                  |
 | 1984 | Commodore 64                                                                            |
 | 1985 | Amiga 500, initial introduction to Solaris and vi, yet not a daily driver at this point |
 | 1992 | Amiga 3000                                                                              |
 | 1993 | MacOS 7.x                                                                               |
 | 1996 | Linux RedHat Colgate                                                                    |
 | 1998 | Linux debian GNU/Linux                                                                  |
-| 2012 | Arch GNU/Linux                                                                          |
+| 1999 | MacOS X                                                                                 |
+| 2011 | Joyent SmartOS                                                                                 |
+| 2012 | Arch GNU/Linux                                                                                 |
+| 2024 | Kubernetes                                                                                     |
 
 Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm trying this too.
 
