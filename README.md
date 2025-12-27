@@ -26,7 +26,7 @@ My user experience OS profile timeline
 | ---  | ---                                                                                     | ---                            |
 | 1982 | VIC-20                                                                                  | VIC-20                         |
 | 1984 | Commodore 64                                                                            | Commodore 64                   |
-| 1985 | Amiga 500, initial introduction to Solaris and vi, yet not a daily driver at this point | Amiga 500                      |
+| 1985 | Amiga 500, initial introduction to unix, telnet and vi, yet not a daily driver at this point | Amiga 500                      |
 | 1992 | Amiga 3000 / Solaris                                                                    | Amiga 3000 / Sun clone Axil    |
 | 1992 | The first web site I opened after mosaic was imdb.com                                   | Amiga 2000                     |
 | 1993 | MacOS 7.x                                                                               | Powerbook 140                  |
