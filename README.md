@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I live in the terminal; iTerm, alactritty, kitty usually, and as of late ghostty, tmux and vim has been my main tools since 1993; tmux since 2012, at a time when I also started looking into neovim, moved to neovim as my main editor after Bram Moolenaar passed.
+I live in the terminal; iTerm2, alactritty, kitty usually, and as of late ghostty, tmux and vim has been my main tools since 1993; tmux since 2012, at a time when I also started looking into neovim, moved to neovim as my main editor after Bram Moolenaar passed.
 
 I have no idea when I signed up for !gh, this profile appears to be a 2013 creation. Definitely not my first. I feel at home reading XSLT / c / cpp / objc / swift / php / python / BASh / rust
 
