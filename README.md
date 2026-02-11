@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Former QuarkXPress and Adobe Illustrator user gone rogue. Then vi and SVG while Netscape still required a plug-in to display SVG.
+Former QuarkXPress and Adobe Illustrator user gone rogue. Then vim and SVG while Netscape still required a plug-in to display SVG.
 
 I live in the terminal; iTerm2, alactritty, kitty usually, and as of late ghostty, tmux and vim has been my main tools since 1993; tmux since 2012, at a time when I also started looking into neovim, moved to neovim as my main editor after Bram Moolenaar passed.
 
