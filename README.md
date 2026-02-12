@@ -12,7 +12,7 @@ I find it important to emphasize that `[neo]vi[m]` is not a text editor; `[neo]v
 
 I have an ASCIINEMA profile the link is on the left; this is like gist meets youtube the TUI edition.
 
-- 🔭 I spent quite some time moving data in and out of FileMaker, postgreSQL, CoreData, elasticsearch, and other dataformats through CSV, TSV, binary formats, XML( in particular UBL / EHF, MTML, MXML, OAG, amongst others, ) JSON, YAML, other portable arrays, you name it.
+- 🔭 I spent quite some time moving data in and out of FileMaker, postgreSQL, CoreData, elasticsearch, and other dataformats through CSV, TSV, XML( in particular UBL / EHF, MTML, MXML, OAG, amongst others, ) JSON, YAML, binary formats, other portable arrays, you name it.
 - 🔭 I’m currently working on new startups; the technical parts
 - 🌱 I’m still learning RataTUI for the CLI, Vapor for REST, Swift for Apple stuff; just started looking into doing Swift SKIP for Android
 - 🌱 I spent the first quarter of 2025 doing a deep dive into Kubernetes, I can't say I like this more than Joyent SmartOS, yet it's a good thing to have in my toolbelt.
