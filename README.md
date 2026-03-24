@@ -51,3 +51,5 @@ In general I love stuff that fits in a table
 | Column | header | more | of  | it  |
 | ---    | ---    | ---  | --- | --- |
 | Column | more   | of   |     | it  |
+
+or transforms to another using rref in elementary linear algebra or otherwise.
