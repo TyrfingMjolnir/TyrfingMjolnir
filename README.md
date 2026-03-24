@@ -40,7 +40,7 @@ My user experience OS profile timeline
 | 2011 | Joyent SmartOS KVM, later on adapted BHYVE                                              | SuperMicro                     |
 | 2012 | Arch GNU/Linux                                                                          | Lenovo x220 through x270       |
 | 2013 | Proxmox                                                                                 |                                |
-| 2024 | Kubernetes                                                                              | Dell r740xd                    |
+| 2024 | Kubernetes                                                                              | Dell r760                    |
 
 Note `username` == `repositoryname` with a `README.md` I saw @orhun do this, I'm trying this too.
 
